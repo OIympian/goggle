@@ -3,7 +3,7 @@ $("#form").submit(function (e) {
 
     var query = $("#search").val()
     apikey = "0a274bd198bde10f3218287147180390"
-    var url = 'https://api.serpstack.com/search?access_key=' + apikey + '&type=web&query=' + query
+    var url = 'http://api.serpstack.com/search?access_key=' + apikey + '&type=web&query=' + query
 
     let results = ''
 
