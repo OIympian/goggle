@@ -1,11 +1,8 @@
 # goggle - shitty "search engine"
 goggle is a shitty google ripoff that uses the serpstack api
 
-# release
-only public due to pages testing
-
 # how 2 use
-is that even a question lol
+1. Go to [Serpstack](https://www.serpstack.com)
 
 # found issues or want to suggest features? 
 open an issue or pull request
