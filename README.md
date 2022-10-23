@@ -5,6 +5,6 @@ Goggle is the most budget and shitty search engine that exists, *probably*. Uses
 1. Go to [Serpstack](https://www.serpstack.com)
 2. Make an account
 3. Get your API key
-4. Add to config.json
+4. Change API Key in index.js
 5. ???
 6. profit
