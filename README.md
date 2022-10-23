@@ -1,4 +1,4 @@
-# goggle - shitty "search engine"
+# Goggle - shitty "search engine"
 Goggle is the most budget and shitty search engine that exists, *probably*. Uses Serpstack API to scrape google results and display them.
 
 # How to use
@@ -8,3 +8,6 @@ Goggle is the most budget and shitty search engine that exists, *probably*. Uses
 4. Change API Key in index.js
 5. ???
 6. profit
+
+# Purpose
+I honestly don't see any actual purpose in this, I just made it for fun, and to try out Serpstack.
