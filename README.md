@@ -1,8 +1,10 @@
 # goggle - shitty "search engine"
-goggle is a shitty google ripoff that uses the serpstack api
+Goggle is the most budget and shitty search engine that exists, *probably*. Uses Serpstack API to scrape google results and display them.
 
-# how 2 use
+# How to use
 1. Go to [Serpstack](https://www.serpstack.com)
-
-# found issues or want to suggest features? 
-open an issue or pull request
+2. Make an account
+3. Get your API key
+4. Add to config.json
+5. ???
+6. profit
